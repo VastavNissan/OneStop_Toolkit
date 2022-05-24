@@ -46,7 +46,7 @@ Problem 2: If anyone is facing the error "No module found named pip" then run th
 Remember after cloning the repo from Github, please download all the image file in your D drive to run the code without 
 hitch or glitch or you can change the image directory according to your convenience and also alter the directory in the program code as well.
 
-## Suggestion 🧐 ##
+## Project Team ##
 Team Members:- Vastav Nissan Swain, Pooja Bhardwaj, Aditya Tyagi, Bhargav Sharma
 
 <br /><br />
